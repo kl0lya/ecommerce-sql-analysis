@@ -15,22 +15,6 @@ The final output ranks countries by subscriber count and email volume, returning
 
 ---
 
-## Repository Structure
-
-```
-ecommerce-sql-analysis/
-│
-├── sql/
-│   └── ecommerce_analysis.sql   # Main query (6 CTEs + final SELECT)
-│
-├── dashboard/
-│   └── looker_studio_screenshot.png  # Looker Studio dashboard screenshot
-│
-└── README.md
-```
-
----
-
 ## Data Sources (BigQuery — project `data-analytics-mate`, dataset `DA`)
 
 | Table | Description |
@@ -92,7 +76,7 @@ The dataset powers a Looker Studio dashboard with:
 - **Table** — country rankings by accounts and sent messages
 - **Time series** — email sending dynamics over time
 
-[Dashboard](dashboard/Data_Studio_Dashboard.pdf)
+[Dashboard](Data_Studio_Dashboard.pdf)
 
 **Key findings:**
 
