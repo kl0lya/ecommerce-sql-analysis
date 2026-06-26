@@ -83,19 +83,23 @@ ranked_data         →  DENSE_RANK() by total subscribers & sent messages
 
 ---
 
-## 📈 Looker Studio Dashboard
+## Data Studio (Looker Studio) Dashboard
 
 The dataset powers a Looker Studio dashboard with:
 
-- 🗺️ **Geographic map** — account distribution by country
-- 📊 **Bar chart** — total account count per country
-- 📋 **Table** — country rankings by accounts and sent messages
-- 📈 **Time series** — email sending dynamics over time
+- **Geographic map** — account distribution by country
+- **Bar chart** — total account count per country
+- **Table** — country rankings by accounts and sent messages
+- **Time series** — email sending dynamics over time
 
-![Dashboard Screenshot](dashboard/looker_studio_screenshot.png)
+[Dashboard](dashboard/Data_Studio_Dashboard.pdf)
 
 **Key findings:**
 
+- United States leads in both subscriber count and email volume
+- India and Canada are the 2nd and 3rd largest markets
+- Peak email activity occurred in late December 2020 – early January 2021
+- Taiwan ranks 7th by accounts but 9th by sent volume — indicating lower engagement rate relative to subscriber count
 
 ---
 
