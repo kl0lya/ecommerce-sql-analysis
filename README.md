@@ -76,7 +76,7 @@ The dataset powers a Looker Studio dashboard with:
 - **Table** — country rankings by accounts and sent messages
 - **Time series** — email sending dynamics over time
 
-[Dashboard](Data_Studio_Dashboard.pdf)
+![Dashboard](data_studio_dashboard.png)
 
 **Key findings:**
 
